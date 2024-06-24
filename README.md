@@ -1,16 +1,38 @@
-## Hi there 👋
+# Damian Garbarini - Web Developer
 
-<!--
-**damian-garbarini/damian-garbarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+¡Hola! Soy Damian Garbarini y vivo en Buenos Aires, Argentina. Soy un desarrollador web apasionado por la tecnología y la innovación. Me especializo en el desarrollo Backend, aunque también tengo conocimientos en Frontend. Estoy siempre en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy en busqueda laboral.
+
+## Conocimientos:
+
+### Lenguajes de Programación
+- **JavaScript**
+- **TypeScript**
+
+
+### Tecnologías y Frameworks
+- **Node.js**
+- **Express.js**
+- **NestJS**
+- **React**
+- **CSS**
+- **HTML**
+- **Bootstrap**
+- **Tailwind CSS**
+
+### Bases de Datos
+- **MySQL**
+- **PostgreSQL**
+- **MongoDB**
+
+### Herramientas y Plataformas
+- **Git & GitHub**
+- **Docker**
+
+## Contacto
+
+- **LinkedIn**: [mi perfil de LinkedIn](www.linkedin.com/in/damian-garbarini-a104b42a6)
+- **Correo Electrónico**: [mi email](garbarinidamian@gmail.com)
