@@ -34,5 +34,5 @@ Actualmente estoy en busqueda laboral.
 
 ## Contacto
 
-- **LinkedIn**: [mi perfil de LinkedIn](www.linkedin.com/in/damian-garbarini-a104b42a6)
-- **Correo Electrónico**: [mi email](garbarinidamian@gmail.com)
+- **LinkedIn**: www.linkedin.com/in/damian-garbarini-a104b42a6
+- **Correo Electrónico**: garbarinidamian@gmail.com
