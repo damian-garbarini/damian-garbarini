@@ -1,4 +1,4 @@
-# Damian Garbarini - Web Developer
+<h1 align="center">Damian Garbarini - Web Developer</h1>  
 
 ![ Web Developer](https://media.licdn.com/dms/image/D4D16AQFQQWt_IjqOxQ/profile-displaybackgroundimage-shrink_350_1400/0/1719194177784?e=1726704000&v=beta&t=oFM7DfSFLLcbcLCqgzCpw_JCuXcnjBW8HQEpozuEK9M)
 
