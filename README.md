@@ -1,39 +1,60 @@
-<h1 align="center">Damian Garbarini - Web Developer</h1>  
+<h1 align="center">Damian Garbarini</h1>
+<h3 align="center">Backend-Focused Full Stack Developer</h3>
 
+---
 
-## Sobre mí
+## 🚀 About Me
 
-¡Hola! Soy Damian Garbarini y vivo en Buenos Aires, Argentina. Soy un desarrollador web apasionado por la tecnología y la innovación. Me especializo en el desarrollo Backend, aunque también tengo conocimientos en Frontend. Estoy siempre en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente.
+I'm a Full Stack Developer based in Buenos Aires, Argentina, with a strong focus on backend development using Node.js, Next.js, and TypeScript.
 
-Actualmente estoy en busqueda laboral.
+Currently working in a production environment, contributing to the development of a workforce management platform, where I actively participate in technical decisions, data modeling, performance optimization, and scalable system design.
 
-## Conocimientos:
+I have experience building web and mobile applications, integrating external services (AWS, email services), and improving system reliability through testing and code reviews.
 
-### Lenguajes de Programación
-- **JavaScript**
-- **TypeScript**
+I enjoy working on real-world systems, solving complex problems, and building solutions designed to scale.
 
+---
 
-### Tecnologías y Frameworks
-- **Node.js**
-- **Express.js**
-- **NestJS**
-- **React**
-- **CSS**
-- **HTML**
-- **Bootstrap**
-- **Tailwind CSS**
+## 🧠 Tech Stack
 
-### Bases de Datos
-- **MySQL**
-- **PostgreSQL**
-- **MongoDB**
+### Backend
+- Node.js
+- Next.js (API Routes / Server-side logic)
+- TypeScript
+- REST APIs
+- Jest
 
-### Herramientas y Plataformas
-- **Git & GitHub**
-- **Docker**
+### Frontend
+- React.js
+- Next.js
+- React Native
+- Tailwind CSS
 
-## Contacto
+### Databases
+- PostgreSQL
+- MongoDB
 
-- **LinkedIn**: www.linkedin.com/in/damian-garbarini-a104b42a6
-- **Correo Electrónico**: garbarinidamian@gmail.com
+### Tools & Others
+- Git & GitHub
+- Docker
+- AWS
+- Agile / Scrum
+
+---
+
+## 💼 Current Work
+
+Full Stack Developer at **SWAPPY**
+
+- Workforce management platform with facial recognition (AWS)
+- Employee hour tracking and metrics processing
+- Mobile app development (React Native)
+- Internal admin platform
+- Performance optimization and scalable architecture
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/damian-garbarini
+- Email: garbarinidamian@gmail.com
